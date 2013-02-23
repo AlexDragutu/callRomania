@@ -1,0 +1,4 @@
+callRomania is based on GPL application CSipSimple.
+
+You can find the source files for callRomania either as a patch to be applied against the main CSipSimple project (located in directory "patches"),
+or as a zip file of the entire project (located in directory sources).
